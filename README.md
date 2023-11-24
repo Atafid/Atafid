@@ -96,7 +96,15 @@ This is a simple 2D Maze Generator and Solver. The project is made from scratch,
 	<a href="https://github.com/Atafid/Maze-Solver"><img src="https://raw.githubusercontent.com/Atafid/Maze-Solver/master/resources/img/demo.png" width="500"></a>
 </p>
 
-## [🍕 Pizza Maker - Mobile Game *(Actionscript;Flash, 2019)*](https://github.com/Atafid/Pizza-Maker)
+## [🎮 Blast - Unity Mobile Game *(C#, 2020)*](https://github.com/Atafid/Blast)
+
+Welcome to Blast, a mobile game developed in Unity using C#. In this game, players control a cannon orbiting a tower, attempting to reach the tower while avoiding a rotating arc-shaped wall. The challenge intensifies as the wall's rotation direction and speed change, and the player's firing window narrows over time.
+
+<p align="center">
+	<a href="https://github.com/Atafid/Blast"><img src="https://raw.githubusercontent.com/Atafid/Blast/master/resources/screenshots/game.PNG" width="400"></a>
+</p>
+
+## [🍕 Pizza Maker - Flash Mobile Game *(Actionscript, 2019)*](https://github.com/Atafid/Pizza-Maker)
 
 Welcome to Pizza Maker, a mobile game crafted from scratch using Flash and the Adobe AIR SDK. Dive into the world of pizza-making where your tilt controls determine the fate of your pizza and your culinary reputation.
 
