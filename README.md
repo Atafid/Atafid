@@ -59,7 +59,7 @@ This Java application simulates a library management system coded from scratch, 
 This Python project implements a Chess-playing AI using the Minimax algorithm. The chess game itself is coded from scratch using the Pygame library. The goal is to provide an interactive and challenging chess-playing experience against an AI opponent.
 
 <p align="center">
-	<a href="https://github.com/Atafid/Chess-AI"><img src="https://raw.githubusercontent.com/Atafid/Chess-AI/main/ressources/img/game.JPG" width="500"></a>
+	<a href="https://github.com/Atafid/Chess-AI"><img src="https://raw.githubusercontent.com/Atafid/Chess-AI/main/ressources/img/move.PNG" width="500"></a>
 </p>
 
 ## [🐤 Flappy Bird AI *(Python, 2022)*](https://github.com/Atafid/AI-Flappy-Bird)
