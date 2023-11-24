@@ -61,7 +61,7 @@ This project implements a StyleGAN (Generative Adversarial Networks for image sy
 The project includes a graphical user interface (GUI) that allows users to easily generate anime-style images with the trained StyleGAN.
 
 <p align="center">
-	<a href="https://github.com/Atafid/StyleGan"></a>
+	<a href="https://github.com/Atafid/StyleGan"><img src="https://raw.githubusercontent.com/Atafid/StyleGan/master/resources/screenshots/example.PNG" width="500"></a>
 </p>
 
 ## [♟️ Chess AI *(Python, 2022)*](https://github.com/Atafid/Chess-AI) ⚠️ This project is not finished yet ⚠️
