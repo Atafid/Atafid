@@ -54,6 +54,16 @@ This Java application simulates a library management system coded from scratch, 
 	<a href="https://github.com/Atafid/Library-Management-System"><img src="https://raw.githubusercontent.com/Atafid/Library-Management-System/master/src/main/resources/com/example/tp_bibliotheque/screenshots/book.png" width="500"></a>
 </p>
 
+## [🖼️ Style Generative Adversarial Networks  *(Python, 2023)*](https://github.com/Atafid/StyleGan)
+
+This project implements a StyleGAN (Generative Adversarial Networks for image synthesis) from scratch. The StyleGAN is trained to generate anime-style images of size 64x64 using a single GPU. The training dataset consists of images of anime characters, sourced from the Another Anime Face Dataset on Kaggle.
+
+The project includes a graphical user interface (GUI) that allows users to easily generate anime-style images with the trained StyleGAN.
+
+<p align="center">
+	<a href="https://github.com/Atafid/StyleGan"></a>
+</p>
+
 ## [♟️ Chess AI *(Python, 2022)*](https://github.com/Atafid/Chess-AI) ⚠️ This project is not finished yet ⚠️
 
 This Python project implements a Chess-playing AI using the Minimax algorithm. The chess game itself is coded from scratch using the Pygame library. The goal is to provide an interactive and challenging chess-playing experience against an AI opponent.
