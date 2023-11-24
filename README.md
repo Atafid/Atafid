@@ -95,3 +95,11 @@ This is a simple 2D Maze Generator and Solver. The project is made from scratch,
 <p align="center">
 	<a href="https://github.com/Atafid/Maze-Solver"><img src="https://raw.githubusercontent.com/Atafid/Maze-Solver/master/resources/img/demo.png" width="500"></a>
 </p>
+
+## [🍕 Pizza Maker - Mobile Game *(Actionscript;Flash, 2019)*](https://github.com/Atafid/Pizza-Maker)
+
+Welcome to Pizza Maker, a mobile game crafted from scratch using Flash and the Adobe AIR SDK. Dive into the world of pizza-making where your tilt controls determine the fate of your pizza and your culinary reputation.
+
+<p align="center">
+	<a href="https://github.com/Atafid/Pizza-Maker"><img src="https://raw.githubusercontent.com/Atafid/Pizza-Maker/master/resources/img/2019-06-02_114635.png" width="200"></a>
+</p>
