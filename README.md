@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 Guillaume DI FATTA | 2nd-Year InfoSec Student at CentraleSupélec
 
-Passionate CentraleSupélec student specializing in Information Security. Currently in my second year, I combine a love for computing and mathematics.
+Passionate CentraleSupélec student specializing in Information Security. Currently in my gap year, I combine a love for computing and mathematics, with a particular interest in Compilers.
 
 With a keen interest in international perspectives, I bring a diverse skill set from practical experiences in the professional domain.
 I have made different projects by myself, including python, C++, Java, Mobile Game, AI, ...
+I am also currently trying to contribute to the LLVM Project.
 
 # 📭 Contact
 
@@ -36,7 +37,7 @@ Feel free to contact me via these links !
 	</a>
 </p>
 
-# 📂 Projects
+# 📂 Personnal Projects
 
 ## [🎲 2D Physics Engine *(C++, 2023)*](https://github.com/Atafid/2D-Physics-Engine) ⚠️ This project is not finished yet ⚠️
 
